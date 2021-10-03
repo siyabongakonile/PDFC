@@ -1,6 +1,8 @@
 # PDFC
 This is a code base of my first software that in created using Python and PyPDF2
 
+ :warning: **This is an old repository**: If you are looking for the new PDFC2.0 code base visit here [https://github.com/siyabongakonile/PDFC2.0](https://github.com/siyabongakonile/PDFC2.0)
+
 ## Running the program
 - You need to install PuPDF2 first use this command in the terminal/command prompt `pip install PyPDF2`.
 - After installing the package you will be able to run the software.
